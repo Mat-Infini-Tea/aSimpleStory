@@ -1,3 +1,7 @@
 un du trois quattra 
 
+<<<<<<< HEAD
 alice is working smart
+=======
+number 1 2 and 3
+>>>>>>> e044d60924a72598027393ddebc053b14e5031bc
